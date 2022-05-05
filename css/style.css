@@ -7,7 +7,7 @@ body{
 
 .cme{
   position: relative;
-  top: -13px;
+  top: -16px;
   left: 20px ;
   color: #ab7da3;
   font-family: fantasy;
@@ -34,7 +34,7 @@ body{
   color: #ab7da3;
   
   position: relative;
-  left: 800px;
+  left: 600px;
   top: -155px;
   font-family: fantasy;
 }
